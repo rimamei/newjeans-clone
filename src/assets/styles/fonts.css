@@ -1,0 +1,50 @@
+@font-face {
+  font-family: 'Noto Sans KR';
+  src: url('../fonts/noto-sans-kr-v36-korean_latin-500.woff2')
+    format('woff2');
+  font-weight: 500; /* Medium */
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Noto Sans KR';
+  src: url('../fonts/noto-sans-kr-v36-korean_latin-700.woff2')
+    format('woff2');
+  font-weight: 700; /* Bold */
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Noto Sans KR';
+  src: url('../fonts/noto-sans-kr-v36-korean_latin-regular.woff2')
+    format('woff2');
+  font-weight: 400; /* Regular */
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('../fonts/SFPRODISPLAYBOLD.woff') format('woff');
+  font-weight: 700; /* Bold */
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('../fonts/SFPRODISPLAYMEDIUM.woff') format('woff');
+  font-weight: 500; /* Medium */
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SF Pro Display';
+  src: url('../fonts/SFPRODISPLAYREGULAR.woff') format('woff');
+  font-weight: 400; /* Regular */
+  font-style: normal;
+  font-display: swap;
+}
